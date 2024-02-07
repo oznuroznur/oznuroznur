@@ -1,7 +1,41 @@
 
                                    Hi There, I am Öznur 👋
+                                   
+  <h3> Here's some fun facts about me: </h3>
+  - 🔭 I’m currently working on React Native Projects
+  - 🌱 I've 1+ years of professional experience worked at Expo and built three cross-platform applications in React Native with Tailwind
+  - 🔭 I’m also currently working with JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap.
+  - 💬 Ask me about Front-End Development.
+ <!-- - 📫 I am also a technical writer at Medium.
+    Articles : 
+    [],
+    [], -->
+    <br><br><br><br>
 
-  - 🔭 I’m currently working with JavaScript, React, Next.js, React Native, HTML, CSS, Tailwind, Bootstrap.
-  - 🌱 I’m currently focused to improve myself about React Native, Expo, Tailwind.
-  - 📫 How to reach me: oznuroznurr26@gmail.com
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+  <p>Connect with me on
+<br>	
+<a target="_blank" href="www.linkedin.com/in/oznuroznur"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:oznuroznurr26@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/aithuzy"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+    &emsp;
+     <a href="https://stackoverflow.com/users/17683383/Öznur-Öznur"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+                                                        <!-- 
+&emsp;
+<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
+<br>
+</p>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Skills.***
+<p align="left">
+
+ <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+ <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
+  
+
 
