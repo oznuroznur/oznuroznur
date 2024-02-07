@@ -3,7 +3,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=28&pause=1000&color=56F757&random=false&width=435&lines=Hi+There%2C+I+am+%C3%96znur+%F0%9F%91%8B)](https://git.io/typing-svg) -->
 
-
+<br><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Riot&size=28&pause=1000&color=56F757&random=false&width=435&lines=Hi+There%2C+I+am+%C3%96znur+%F0%9F%91%8B)](https://git.io/typing-svg)
 
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
