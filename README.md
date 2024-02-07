@@ -56,6 +56,8 @@
  <code> <img weight="20" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </code>
 <code> <img weight="20" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"> </code>
 <code> <img weight="20" height="30" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"> </code>
+<code> <img weight="20" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> </code>
+
 
 
  
