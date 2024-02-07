@@ -26,7 +26,7 @@
 &emsp;
 <a href="discordapp.com/users/590442113431502850"><img  weight="50" height="20" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
     
-  <br><br><br>
+  <br>
                                                         <!-- 
 &emsp;
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
