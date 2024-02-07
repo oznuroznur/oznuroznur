@@ -41,7 +41,7 @@
 <p align="left">
 
  <code> <img weight="20" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
- <code> <img weight="20" height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </code>
+ <code> <img weight="20" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img weight="20" height="50" src=" https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"> </code>
   <code> <img weight="20" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> </code>
  <code> <img weight="20" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
