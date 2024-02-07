@@ -2,11 +2,11 @@
                                    Hi There, I am Öznur 👋
 
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-  <h3> Here's some fun facts about me: </h3>
-  - 🔭 I’m currently working on React Native Projects
-  - 🌱 I've 1+ years of professional experience worked at Expo and built three cross-platform applications in React Native with Tailwind
-  - 🔭 I’m also currently working with JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap.
-  - 💬 Ask me about Front-End Development.
+  <h3> Here's some fun facts about me: </h3> <br>
+  - 🔭 I’m currently working on React Native Projects <br>
+  - 🌱 I've 1+ years of professional experience worked at Expo and built three cross-platform applications in React Native with Tailwind <br>
+  - 🔭 I’m also currently working with JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap.<br>
+  - 💬 Ask me about Front-End Development.<br>
  <!-- - 📫 I am also a technical writer at Medium.
     Articles : 
     [],
