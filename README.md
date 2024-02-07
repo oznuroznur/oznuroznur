@@ -1,6 +1,7 @@
 
                                    Hi There, I am Öznur 👋
-                                   
+
+ <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
   <h3> Here's some fun facts about me: </h3>
   - 🔭 I’m currently working on React Native Projects
   - 🌱 I've 1+ years of professional experience worked at Expo and built three cross-platform applications in React Native with Tailwind
@@ -11,7 +12,7 @@
     [],
     [], -->
 
-  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+ 
 
     
    <br><br>
