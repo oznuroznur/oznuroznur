@@ -9,9 +9,9 @@
  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
   <h3> Here's some fun facts about me: </h3> <br>
   - 🔭 I’m currently working on NextJS and React Native Projects <br>
-  - 🌱 I've 2+ years of professional experience worked at Expo and built three cross-platform applications in React Native with Tailwind <br>
-  - 🔭 I’m also currently working with React,Tailwind,TanStack Query,Expo,Postman etc.<br>
-  - 💬 Ask me about Front-End Development.<br>
+  - 🌱 I have 2+ years of professional experience, specializing in Next.js, Expo, and React Native with TailwindCSS<br>
+  - 💡 My tech stack includes React, Tailwind CSS, TanStack Query, Expo, Postman, and more.<br>
+  - 💬 Feel free to ask me about Frontend Development, mobile and web performance, and UI/UX best practices!<br>
  <!-- - 📫 I am also a technical writer at Medium.
     Articles : 
     [],
